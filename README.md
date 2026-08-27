@@ -103,8 +103,8 @@ Before deleting duplicate files, always review the selected files carefully.
 
 
 <p align="center">
-  <img src="screenshots/screenshots_1.png" alt="File Search" width="25%">
-  <img src="screenshots/screenshots_2.png" alt="Duplicate Files Search" width="25%">
+  <img src="screenshots/Screenshot_1.png" alt="File Search" width="25%">
+  <img src="screenshots/Screenshot_2.png" alt="Duplicate Files Search" width="25%">
 </p>
 
 ## ⚙️ Technologies
